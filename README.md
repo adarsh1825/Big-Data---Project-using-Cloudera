@@ -1,4 +1,4 @@
-📊 Big Data Analytics Project
+##📊 Big Data Analytics Project
 
 📌 Overview
 
@@ -40,6 +40,7 @@ The objective is to showcase data ingestion, processing, and analysis using the 
 │   ├── external_table
 │   └── partitioning
 │
+
 └── README.md
 
 🚀 Features & Implementation
