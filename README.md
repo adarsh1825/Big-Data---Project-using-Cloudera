@@ -1,10 +1,12 @@
 📊 Big Data Analytics Project
 
 📌 Overview
+
 This project demonstrates practical implementation of Big Data tools including:
 1. Apache Sqoop
 2. Apache Pig
 3. Apache Hive
+
 The objective is to showcase data ingestion, processing, and analysis using the Hadoop ecosystem.
 
 🧰 Technologies Used
@@ -15,6 +17,7 @@ The objective is to showcase data ingestion, processing, and analysis using the 
 * MySQL (RDBMS)
 
 📁 Project Structure
+
 ├── sqoop/
 │   ├── import_single_table
 │   ├── import_all_tables
@@ -35,6 +38,7 @@ The objective is to showcase data ingestion, processing, and analysis using the 
 └── README.md
 
 🚀 Features & Implementation
+
 🔹 1. Apache Sqoop (Data Transfer)
 Import data from MySQL to HDFS
 Import all tables with exclusions
@@ -58,6 +62,7 @@ Static Partitioning
 Dynamic Partitioning
 
 📊 Key Concepts Covered
+
 * Data Import/Export using Sqoop
 * Data Transformation using Pig
 * SQL-like Querying using Hive
