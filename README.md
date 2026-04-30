@@ -1,4 +1,4 @@
-📊 Big Data Analytics Project (INTM590)
+📊 Big Data Analytics Project
 📌 Overview
 This project demonstrates practical implementation of Big Data tools including:
 1. Apache Sqoop
