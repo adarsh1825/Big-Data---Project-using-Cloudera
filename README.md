@@ -24,6 +24,7 @@ The objective is to showcase data ingestion, processing, and analysis using the 
 │   ├── import_all_tables
 │   └── export_table
 │
+
 ├── pig/
 
 │   ├── load_data
@@ -32,6 +33,7 @@ The objective is to showcase data ingestion, processing, and analysis using the 
 │   ├── order_by
 │   └── filter_data
 │
+
 ├── hive/
 
 │   ├── internal_table
