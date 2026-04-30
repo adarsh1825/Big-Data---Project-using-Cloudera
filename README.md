@@ -19,11 +19,13 @@ The objective is to showcase data ingestion, processing, and analysis using the 
 📁 Project Structure
 
 ├── sqoop/
+
 │   ├── import_single_table
 │   ├── import_all_tables
 │   └── export_table
 │
 ├── pig/
+
 │   ├── load_data
 │   ├── foreach_operations
 │   ├── group_by
@@ -31,6 +33,7 @@ The objective is to showcase data ingestion, processing, and analysis using the 
 │   └── filter_data
 │
 ├── hive/
+
 │   ├── internal_table
 │   ├── external_table
 │   └── partitioning
